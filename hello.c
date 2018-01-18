@@ -4,6 +4,7 @@ int main()
 
 {
 
- printf("Hello, Realtek!");
+ printf("Hello!");
+ printf("Welcome to Realtek!");
 
 }
